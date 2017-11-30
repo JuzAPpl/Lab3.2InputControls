@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">魔法实验室 3.2 输入魔法</string>
+    <string name="flag">死亡旗</string>
+    <string name="age">魔法师等级</string>
+    <string name="gender">种族</string>
+    <string name="male">雄性</string>
+    <string name="female">神秘生物</string>
+    <string name="smoker">烟雾系魔法师?</string>
+    <string name="premium">法力需求 : </string>
+    <string name="calculate">施放魔法</string>
+    <string name="reset">砍掉重练</string>
+    <string-array name="age_group">
+        <item>小于5的渣渣</item>
+        <item>5至10</item>
+        <item>11至16</item>
+        <item>黑暗女巫</item>
+        <item>黑女巫</item>
+        <item>暗女巫</item>
+        <item>女巫</item>
+        <item>巫</item>
+    </string-array>
+
+    <string-array name="age_group1">
+        <item>小于5的渣渣?</item>
+        <item>5至10</item>
+        <item>11至16</item>
+        <item>黑暗女巫</item>
+        <item>黑女巫</item>
+        <item>暗女巫</item>
+        <item>暗黑女巫</item>
+        <item>Black Magician</item>
+    </string-array>
+</resources>
